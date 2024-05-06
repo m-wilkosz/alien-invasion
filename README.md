@@ -1,5 +1,5 @@
 # Alien Invasion
-[![](https://skills.thijs.gg/icons?i=py)](https://skills.thijs.gg)
+[![](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 ### Description
 Clone of Space Invaders game made with PyGame library.
